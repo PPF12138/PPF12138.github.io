@@ -19,14 +19,15 @@
 ]]></content>
   </entry>
   <entry>
-    <title>firstblood</title>
-    <url>/2022/11/26/firstblood/</url>
-    <content><![CDATA[<h2 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h2><p>在声明变量之前，咱们先了解下变量的数据类型，这篇文章主要涉及 字符串、布尔、数字，其他类型后面开篇再说。</p>
-<h2 id="数据类型"><a href="#数据类型" class="headerlink" title="数据类型"></a>数据类型</h2><h4 id="字符串"><a href="#字符串" class="headerlink" title="字符串"></a>字符串</h4><p><code>string</code></p>
-<p>只能用一对双引号（””）或反引号（&#96;&#96;）括起来定义，不能用单引号（’’）定义！</p>
-<h4 id="布尔"><a href="#布尔" class="headerlink" title="布尔"></a>布尔</h4><p><code>bool</code></p>
-<p>只有 true 和 false，默认为 false。</p>
-<h4 id="数字"><a href="#数字" class="headerlink" title="数字"></a>数字</h4><p><strong>整型</strong></p>
+    <title>经验总结</title>
+    <url>/2022/11/26/kaoyan/</url>
+    <content><![CDATA[<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>今年可以说是自10年之后最意想不到的一年，今年的英一难度史上最低，我也是第一次客观题全队。数学却是最难的一年，毫无疑问20年也比不上今年难度。而本人在数学考试中</p>
+<h2 id="数学"><a href="#数学" class="headerlink" title="数学"></a>数学</h2><h4 id="总结-1"><a href="#总结-1" class="headerlink" title="总结"></a>总结</h4><p><code>个人背景</code></p>
+<p>个人高考数学20年全国一卷142，高数上凭借高中的底子在没有怎么听课的基础上考了98，之后因为没怎么听课高数下线代概率论成绩都一般般，80多点。CMC也只在大二参加了一届，混了个省三。</p>
+<p><code>备考经历</code></p>
+<p>正式开始是在七月吧，因为七月之前都有课，七月开始去图书馆，我的复习和别人的复习都不一样。听之前同学说都要看课挑老师，但是我听我数院室友说学裴礼文的数学分析那本书很牛逼，于是就开始了漫漫数分之路。</p>
+<h4 id="教训"><a href="#教训" class="headerlink" title="教训"></a>教训</h4><h2 id="英语"><a href="#英语" class="headerlink" title="英语"></a>英语</h2><h3 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h3><p>个人认为英语底子最好，高考英语一卷139。</p>
+<p><strong>整型</strong></p>
 <p><code>int8</code> <code>uint8</code> </p>
 <p><code>int16</code> <code>uint16</code></p>
 <p><code>int32</code> <code>uint32</code></p>
@@ -76,15 +77,14 @@
 ]]></content>
   </entry>
   <entry>
-    <title>经验总结</title>
-    <url>/2022/11/26/kaoyan/</url>
-    <content><![CDATA[<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>今年可以说是自10年之后最意想不到的一年，今年的英一难度史上最低，我也是第一次客观题全队。数学却是最难的一年，毫无疑问20年也比不上今年难度。而本人在数学考试中</p>
-<h2 id="数学"><a href="#数学" class="headerlink" title="数学"></a>数学</h2><h4 id="总结-1"><a href="#总结-1" class="headerlink" title="总结"></a>总结</h4><p><code>个人背景</code></p>
-<p>个人高考数学20年全国一卷142，高数上凭借高中的底子在没有怎么听课的基础上考了98，之后因为没怎么听课高数下线代概率论成绩都一般般，80多点。CMC也只在大二参加了一届，混了个省三。</p>
-<p><code>备考经历</code></p>
-<p>正式开始是在七月吧，因为七月之前都有课，七月开始去图书馆，我的复习和别人的复习都不一样。听之前同学说都要看课挑老师，但是我听我数院室友说学裴礼文的数学分析那本书很牛逼，于是就开始了漫漫数分之路。</p>
-<h4 id="教训"><a href="#教训" class="headerlink" title="教训"></a>教训</h4><h2 id="英语"><a href="#英语" class="headerlink" title="英语"></a>英语</h2><h3 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h3><p>个人认为英语底子最好，高考英语一卷139。</p>
-<p><strong>整型</strong></p>
+    <title>firstblood</title>
+    <url>/2022/11/26/firstblood/</url>
+    <content><![CDATA[<h2 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h2><p>在声明变量之前，咱们先了解下变量的数据类型，这篇文章主要涉及 字符串、布尔、数字，其他类型后面开篇再说。</p>
+<h2 id="数据类型"><a href="#数据类型" class="headerlink" title="数据类型"></a>数据类型</h2><h4 id="字符串"><a href="#字符串" class="headerlink" title="字符串"></a>字符串</h4><p><code>string</code></p>
+<p>只能用一对双引号（””）或反引号（&#96;&#96;）括起来定义，不能用单引号（’’）定义！</p>
+<h4 id="布尔"><a href="#布尔" class="headerlink" title="布尔"></a>布尔</h4><p><code>bool</code></p>
+<p>只有 true 和 false，默认为 false。</p>
+<h4 id="数字"><a href="#数字" class="headerlink" title="数字"></a>数字</h4><p><strong>整型</strong></p>
 <p><code>int8</code> <code>uint8</code> </p>
 <p><code>int16</code> <code>uint16</code></p>
 <p><code>int32</code> <code>uint32</code></p>
